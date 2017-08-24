@@ -379,7 +379,7 @@ Button
 
 }
 .btn:hover {
-    background-color:#522bac;
+    background-color:rgba(113, 85, 177, 0.48);;
     color: #fff;
     text-decoration: none;
 }
